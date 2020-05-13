@@ -80,7 +80,7 @@ You can use Gitpod(A free online VS Code-like IDE) for contributing. With single
 
 So that you can start straight away.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/docsifyjs/docsify)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/docsifyjs/docsify) [![Join the chat at https://gitter.im/javaConcurrent/docsify-demo](https://badges.gitter.im/javaConcurrent/docsify-demo.svg)](https://gitter.im/javaConcurrent/docsify-demo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - Fork it!
 - Create your feature branch: `git checkout -b my-new-feature`
